@@ -1,0 +1,11 @@
+py-grama>=0.2.0
+matplotlib
+numpy==1.17.2
+pandas
+seaborn>=0.9
+scipy
+toolz
+networkx
+statsmodels
+sklearn
+lolopy
